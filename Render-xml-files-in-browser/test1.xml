@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:x="http://www.w3.org/1999/xhtml">
+<x:body onload="alert('demo')">
+    <x:p>Namespaced content rendered as real HTML</x:p>
+</x:body>
+</root>
